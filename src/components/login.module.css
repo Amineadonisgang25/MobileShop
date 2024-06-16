@@ -1,0 +1,67 @@
+.form {
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+}
+.fs-title {
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #2C3E50;
+    margin-bottom: 10px;
+}
+.form input[type=email] {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+}
+.form input[type=password] {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+    position: relative;
+}
+.form button{
+    background: #5a88ca;
+    width: 100px;
+    height: 50px;
+    color: white;
+}
+.bodyform {
+    background: linear-gradient(45deg,  rgba(66, 183, 245,0.8) 0%,rgba(66, 245, 189,0.4) 100%);
+    color: gray;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    width:500px;
+    position: relative;
+    margin: 100px auto 10px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.validation {
+    color: red;
+}
+.error {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+    border-color: red;
+}

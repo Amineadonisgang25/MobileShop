@@ -1,0 +1,36 @@
+{
+  "items": {
+    "responsive": [
+      {
+        "id": 1,
+        "title": "",
+        "text": "",
+        "imageUrl": "/img/h4-slide.png"
+      },
+      {
+        "id": 2,
+        "title": "",
+        "text": "",
+        "imageUrl": "/img/h4-slide2.png"
+      },
+      {
+        "id": 3,
+        "title": "",
+        "text": "",
+        "imageUrl": "/img/h4-slide3.png"
+      },
+      {
+        "id": 4,
+        "title": "",
+        "text": "",
+        "imageUrl": "/img/h4-slide4.png"
+      },
+      {
+        "id": 5,
+        "title": "",
+        "text": "",
+        "imageUrl": "/img/h4-slide7.png"
+      }
+    ]
+  }
+}

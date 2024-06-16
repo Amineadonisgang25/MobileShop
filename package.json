@@ -1,0 +1,39 @@
+{
+  "name": "e-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "check-types": "tsc --noemit",
+    "eslint": "eslint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.5",
+    "chrome-launcher": "^1.1.1",
+    "formik": "^2.4.6",
+    "js-cookie": "^3.0.5",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-cookie": "^7.1.4",
+    "react-dom": "^18",
+    "react-redux": "^8.0.0",
+    "react-responsive-carousel": "^3.2.23",
+    "redux": "^5.0.1",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@typescript-eslint/eslint-plugin": "^7.11.0",
+    "@typescript-eslint/parser": "^7.11.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.3",
+    "eslint-plugin-react": "^7.34.2",
+    "typescript": "^5"
+  }
+}
